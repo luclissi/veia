@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Veia</string>
+    <string name="strA1"></string>
+    <string name="strA2"></string>
+    <string name="strA3"></string>
+    <string name="strB1"></string>
+    <string name="strB2"></string>
+    <string name="strB3"></string>
+    <string name="strC1"></string>
+    <string name="strC2"></string>
+    <string name="strC3"></string>
+
+</resources>
